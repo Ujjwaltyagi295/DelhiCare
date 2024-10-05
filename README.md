@@ -38,9 +38,3 @@ This project aims to develop a comprehensive Hospital Management System (HMS) to
 - **Chatbot Development:** Python using NLP libraries such as NLTK/Spacy.
 - **Integration:** RESTful APIs for integration with city-wide healthcare systems.
 
-## Installation and Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/CodeNinjaSarthak/DelhiCare.git
-   cd DelhiCare
